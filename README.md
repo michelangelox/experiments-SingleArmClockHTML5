@@ -11,3 +11,5 @@ See it in action here: [Single Arm Clock HTML 5](https://www.miguelmoreno.net/ex
 
 ### Usage:
 Clone and run **index.html**
+
+![Clock with hour, minute and second arm in one](http://i.imgur.com/doEyjP4.png)
